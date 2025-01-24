@@ -1,8 +1,10 @@
-# 👋 Olá, eu sou Estefany!
+# 👋 Olá, eu sou a Estefany! 
 
-🎓 Estudante de **Desenvolvimento de Sistemas**, apaixonada por tecnologia e sempre em busca de novos desafios e aprendizados.
+![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-## 🚀 Tecnologias e Habilidades
+🎓 Estudante de **Desenvolvimento de Sistemas**, apaixonada por tecnologia e sempre em busca de aprender novas linguagens e ferramentas.  
+
+## 🚀 Tecnologias que domino:
 
 - **Linguagens de Programação:**  
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
@@ -11,14 +13,15 @@
   ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
   ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
 
-- **Versionamento de Código:**  
+- **Ferramentas:**  
   ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)  
 
-## 💡 Sobre mim
+## 💡 Sobre mim:
 
-- Atualmente estudando e aprimorando minhas habilidades em desenvolvimento de sistemas.
-- Busco sempre criar soluções eficientes e aprender cada vez mais sobre o mundo da tecnologia.
+- Sempre explorando novas tecnologias e desafios.  
+- Busco criar soluções criativas e eficientes para problemas do dia a dia.  
+- Gosto de contribuir com projetos e compartilhar conhecimento.
 
 ## 📫 Contato
 
