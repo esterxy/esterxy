@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Estefany!
+# 👋 Olá, eu sou Estefany!
 
 🎓 Estudante de **Desenvolvimento de Sistemas**, apaixonada por tecnologia e sempre em busca de novos desafios e aprendizados.
 
