@@ -46,8 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/esterxy/esterxy/output/snake.svg" alt="Snake animation" />
-
 ###
 
 
