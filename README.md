@@ -29,6 +29,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://www.kindpng.com/picc/m/657-6574280_c-c-sharp-logo-png-transparent-png.png" height="30" alt="C# logo"  />
+  <img width="12" />
+
+  
 </div>
 
 ###
