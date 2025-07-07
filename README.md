@@ -1,4 +1,4 @@
-<h3 align="left">Olá! Eu  sou a Ester👋<br>Desenvolvedora em construção I Apaixonada por tecnologia e segurança da informação</h3>
+
 
 ### 👋 Olá, eu sou a Estefany Gomes!
 
