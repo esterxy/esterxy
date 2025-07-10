@@ -52,6 +52,12 @@
 </p>
 
 ---
+### 🌐 Portfólio Completo
+
+Para uma visão mais detalhada dos meus projetos e experiência:  
+🔗 [Acessar Portfólio](https://esterxy.github.io/portfolio)
+
+---
 
 ### 📊 Minhas Estatísticas no GitHub
 
