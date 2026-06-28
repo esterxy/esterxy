@@ -16,7 +16,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Developer | C# | Angular | SQL | AI & Cybersecurity Enthusiast
+  Full Stack Developer | Asp.Net | Angular | SQL | AI & Cybersecurity Enthusiast
 </h3>
 
 ---
